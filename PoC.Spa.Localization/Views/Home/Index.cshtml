@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Message </h2>
+
+
+<div ng-controller="HomeController">
+    <p>{{ 'Name' | translate }}</p>
+    <p>{{ 'RequiredField' | translate }}</p>
+    <input value="ES" type="button" ng-click="changeToES()" />
+    <input value="EN" type="button" ng-click="changeToEN()" />
+</div>

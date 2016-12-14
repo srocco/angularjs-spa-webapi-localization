@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/packages
+/PoC.Spa.Localization/bin
+/PoC.Spa.Localization/obj

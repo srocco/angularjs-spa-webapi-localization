@@ -1,0 +1,4 @@
+﻿{
+  "InvalidFieldLength": "The field length is not valid.",
+  "RequiredField": "The field {0} is required."
+}
